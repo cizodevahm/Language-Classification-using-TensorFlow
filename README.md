@@ -23,6 +23,7 @@ To run the notebook, you need to have the following packages installed:
  - Pandas
  - Scikit-learn
  - Wikipedia-API (optional, for additional data)
+
 You can install these packages using pip:
 ```bash
 pip install tensorflow numpy pandas scikit-learn wikipedia-api
