@@ -5,10 +5,15 @@ This repository contains a Jupyter Notebook for classifying languages using Tens
 The notebook walks through the following steps:
 
 **Loading Packages**: Importing necessary libraries such as TensorFlow, NumPy, Pandas, and Scikit-learn.
+
 **Data Preparation**: Loading and preprocessing the dataset, including label encoding and text cleaning.
+
 **Model Building**: Creating a neural network model using TensorFlow’s Keras API.
+
 **Training**: Training the model on the dataset.
+
 **Evaluation**: Evaluating the model’s performance using accuracy and confusion matrix.
+
 **Prediction**: Making predictions on new text data.
 
 ## Installation
